@@ -1,5 +1,7 @@
 # Using Deep Q-Network to Learn How To Play Flappy Bird
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/DeepLearningFlappyBird.svg)](https://www.guardrails.io)
+
 <img src="./images/flappy_bird_demp.gif" width="250">
 
 7 mins version: [DQN for flappy bird](https://www.youtube.com/watch?v=THhUXIhjkCM)
